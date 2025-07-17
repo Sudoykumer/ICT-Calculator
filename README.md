@@ -22,11 +22,6 @@ An intelligent and user-friendly Number System Calculator built with Python & Ki
 - 📱 *Mobile Compatible UI:*
   - Built using *Kivy*, perfect for Android deployment.
 
-## 📸 Screenshots
-
-> Add your screenshots here like:
-> ![App Screenshot](screenshot.png)
-
 ## 🛠 Technologies Used
 
 - *Python*
