@@ -33,15 +33,3 @@ An intelligent and user-friendly Number System Calculator built with Python & Ki
 
 - Python 3.x
 - Kivy
-
-### 💻 Run the Project
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/ict-calculator.git
-
-# Navigate to the directory
-cd ict-calculator
-
-# Run the app
-python main.py
